@@ -1,12 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Basic dev setup:
+### Basic dev setup:
 
-Tailwind 3.3
+- Tailwind 3.3
 
-React 18
+- React 18
 
-Next 13
+- Next 13
 
 ## Getting Started
 
