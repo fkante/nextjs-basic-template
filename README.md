@@ -3,7 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Basic dev setup:
 
 Tailwind 3.3
+
 React 18
+
 Next 13
 
 ## Getting Started
